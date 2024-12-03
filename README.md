@@ -6,7 +6,7 @@
 
 ### Can I play this game?
 
-You sure can! And you don't even need to sign up for anything, or check out any programming code, or do anything beyond just clicking through to the live website: https://pomax.github.io/mahjong
+You sure can! And you don't even need to sign up for anything, or check out any programming code, or do anything beyond just clicking through to the live website: https://mind-games-daily.github.io/mahjong-play-online/
 
 Note that mostly due to "that's what we play in our house a lot", this implementation currently comes with "Chinese Classical" and "Cantonese" rules for play and scoring. Additional rules may eventually be written up, but if you want to get ahead of the game and implement one so it can be added to the repo, those will be more than welcome.
 
